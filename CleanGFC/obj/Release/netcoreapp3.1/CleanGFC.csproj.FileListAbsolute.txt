@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\bin\Release\netcoreapp3.1\CleanGFC.exe
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\bin\Release\netcoreapp3.1\CleanGFC.deps.json
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\bin\Release\netcoreapp3.1\CleanGFC.runtimeconfig.json
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\bin\Release\netcoreapp3.1\CleanGFC.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\bin\Release\netcoreapp3.1\CleanGFC.dll
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\bin\Release\netcoreapp3.1\CleanGFC.pdb
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.AssemblyInfo.cs
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.dll
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.pdb
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.genruntimeconfig.cache
+C:\Users\admin\source\repos\CleanGFC\CleanGFC\obj\Release\netcoreapp3.1\CleanGFC.csprojAssemblyReference.cache

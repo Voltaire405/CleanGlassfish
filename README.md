@@ -3,7 +3,7 @@ Software in order to clean glassfish 5.1 cache automatically - Console project .
 
 ## Installation steps
 
-1. Download compiled folder or compile by yourself. First one choice imply  goto bin\Release\netcoreapp3.1 and download publish folder
+1. Download compiled folder or compile by yourself. Go to releases and download the latest version publish.zip and extract the folder.
 2. Move publish folder into glassfish folder root
 3. Execute CleanGFC.exe as Administrator
 4. Create desktop shorcut for practicity
